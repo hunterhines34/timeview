@@ -1,4 +1,4 @@
-# timeview
+# Timeview
 
 Timeview allows users to easily find out what time it is in different parts of the world. 
 
