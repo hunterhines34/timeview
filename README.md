@@ -5,7 +5,9 @@ Timeview allows users to easily find out what time it is in different parts of t
 # Screenshots
 
 ![Night Time](https://github.com/hunterhines34/timeview/blob/master/screenshot1.png)
+
 ![Day Time](https://github.com/hunterhines34/timeview/blob/master/screenshot2.png)
+
 ![Locations](https://github.com/hunterhines34/timeview/blob/master/screenshot3.png)
 
 ## Getting Started
